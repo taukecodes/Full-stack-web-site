@@ -41,3 +41,31 @@ Follow these steps to run the project locally on your machine:
 ### 1. Clone the repository
 ```bash
 git clone [https://github.com/taukecodes/your-repo-name.git](https://github.com/taukecodes/your-repo-name.git)
+
+
+
+* Navigate to the project directory: cd your-repo-name
+
+* Install dependencies (if using React / Vite / Next.js): npm install
+
+* Start the development server: npm run dev
+
+
+* Folder Structure:
+
+├── public/              # Static assets and images
+├── src/
+│   ├── components/      # Modular UI components (Navbar, Hero, Catalog, CartDrawer, Marquee)
+│   ├── data/            # Coffee products, brew guides, and review data
+│   └── styles/          # Global styles and custom animations
+├── index.html
+└── README.md
+
+
+* Author:
+Md. Towfikul Islam Tauke
+
+GitHub: @taukecodes
+
+Email: dev.tit909@gmail.com
+
