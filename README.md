@@ -2,14 +2,14 @@
 
 A modern, editorial-style web application built for **Kalo & Crumb**, an independent specialty coffee roastery and brewing equipment store. Designed with a tactile, warm aesthetic, smooth micro-interactions, and an end-to-end interactive shopping experience.
 
-![Project Preview](./preview.png)
-*(Replace `./preview.png` with an actual screenshot of your live website)*
+<img width="1920" height="1080" alt="Screenshot (1257)" src="https://github.com/user-attachments/assets/11aa83ef-39ed-457e-81ad-4bd25c0b1e8c" />
+
 
 ---
 
 ## Live Demo 
     Live Site:https://full-stack-web-site.vercel.app
-- **Repository:** [Add your GitHub repository link here]
+-   Repository:https://github.com/taukecodes/Full-stack-web-site
 
 ---
 
