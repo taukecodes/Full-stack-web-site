@@ -8,7 +8,7 @@ A modern, editorial-style web application built for **Kalo & Crumb**, an indepen
 ---
 
 ## Live Demo 
-    Live Site:https://full-stack-web-site.vercel.app
+    Live Site: https://full-stack-web-site.vercel.app
 -   Repository:https://github.com/taukecodes/Full-stack-web-site
 
 ---
